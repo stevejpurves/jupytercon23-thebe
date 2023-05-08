@@ -1,0 +1,10 @@
+name: jcon23
+channels:
+  - conda-forge
+  - default
+dependencies:
+  - jupyterlab
+  - jupyterlab-myst
+  - pip
+  - pip:
+      - jupyterlab_rise
